@@ -2,4 +2,4 @@
 Inventory Management Using REST, Flask
 
 
-![Optional Text](../master/Capture.png)
+![all Text](../master/Capture.png)
